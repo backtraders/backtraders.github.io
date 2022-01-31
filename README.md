@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Backtraders
 
-You can use the [editor on GitHub](https://github.com/backtraders/backtraders.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Backtraders has collection of custom backtrader indicator scripts, developed for learning and backtesting on historical data. All the indicators developed are in python and can be used with backtrader module of python.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Backtraders are not linked with backtrader or backtrader2 being maintained at git hub.
 
 ### Markdown
 
