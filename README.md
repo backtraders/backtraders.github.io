@@ -4,7 +4,7 @@ Backtraders has collection of custom backtrader indicator scripts, developed for
 
 Backtraders are not officially linked with backtrader or backtrader2 being maintained at git hub. For official documentation and module of backtrader please visit backtrader or backtrader respository.
 
-### Markdown
+### Indicators Added
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
