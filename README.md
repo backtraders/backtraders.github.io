@@ -9,5 +9,5 @@ Backtraders are not officially linked with [backtrader](https://github.com/memen
 - [Fibonacci Bollinger Band](FFB.md)
 
 ### Resources on Python Backtrader
-- [Free Official Documentation](https://www.backtrader.com/docu/)
-- [Ebook & paperback from Amazon](https://www.amazon.com/dp/B09QHWHBGX)- Teach Yourself Python Backtrader: Step by Step backtesting implementation for non-programmers.
+- [Free Official Documentation](https://www.backtrader.com/docu/) - Official documentation for programming having experience with python. If you have no or little expereince with python, you may find it difficult to understand and implement.
+- [Ebook & paperback from Amazon](https://www.amazon.com/dp/B09QHWHBGX)- Teach Yourself Python Backtrader: Step by Step backtesting implementation for non-programmers. - Written for the traders with no or little prior experience with programming and python. Book also covers important topics of python required for understanding and implementation of "backtrader".
