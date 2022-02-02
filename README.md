@@ -6,7 +6,7 @@ Backtraders are not officially linked with [backtrader](https://github.com/memen
 
 ### Indicators Added
 
-- [Fibonacci Bollinger Band](FFB)
+- [Fibonacci Bollinger Band](FFB.md)
 
 ### Resources on Python Backtrader
 - [Free Official Documentation](https://www.backtrader.com/docu/)
